@@ -1,14 +1,14 @@
 # EX_MARKDOWN
 
 ### 9. 이미지 넣기
-![e클래스 cafe](https://cafe.naver.com/kndjang?iframe_url=/MyCafeIntro.nhn%3Fclubid=29051513 "e클래스의 cate 입니다.")
+![e클래스 cafe](https://github.com/jji307/EX_MARKDOWN/blob/main/%EC%84%A4%EA%B3%84%EC%84%9C.png "e클래스의 cate 입니다.")
 
 ### 8. 강조
 **Spring** 을 만끽 하세요.  
 *Spring* 을 만끽 하세요. 
 
 ### 7. 하이퍼링크
-[e클래스 cafe](https://cafe.naver.com/kndjang?iframe_url=/MyCafeIntro.nhn%3Fclubid=29051513 "e클래스의 cate 입니다.")
+[e클래스 cafe](https://cafe.naver.com/kndjang "e클래스의 cate 입니다.")
 
 ### 6. 가로선
 ---
