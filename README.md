@@ -1,5 +1,15 @@
 # EX_MARKDOWN
 
+### 10. 표
+|번호|아이디|이름|레벨|이메일|등록일|
+|:-------|:-------|:-------:|-------:|:-------|:-------:|
+|1      |james  |이상무  |1| jamesol@paran.com|9:00|
+|2      |**james**  |이상무  |1| jamesol@paran.com|9:00|
+|3      |james  |이상무  |1| jamesol@paran.com|9:00|
+|4      |james  |이상무  |1| jamesol@paran.com|9:00|
+|5      |james  |이상무  |1| jamesol@paran.com|9:00|
+
+
 ### 9. 이미지 넣기
 ![e클래스 cafe](https://github.com/jji307/EX_MARKDOWN/blob/main/%EC%84%A4%EA%B3%84%EC%84%9C.png "e클래스의 cate 입니다.")
 
